@@ -133,7 +133,7 @@ def decrypt(
 
 def Encrypt_SaveFile_oneFunciton():
     publicKey, privateKeyDict = encrypt(
-        inputSignList=signPack(1),
+        inputSignList=signPack(constants.tagPointsCount),
         inputPrivateKeyDict=privateKeyDictGen(constants.rawKeysDict),
     )
 
