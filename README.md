@@ -8,5 +8,5 @@ gif source :https://dribbble.com/shots/642558-Under-Construction-Machine-XML-cus
 
 
 <p> 1 : adding database to code with SHA-3 for personal autentication </p>
-<p> 2 : adding querys(am I right?) to the launcher to simplify the menu (launcher will be commited) </p>
-<p> 3 : using AES of RAS encryption for private keys
+<p> 2 : adding queries(am I right?) to the launcher to simplify the menu (launcher will be commited) </p>
+<p> 3 : using AES or RAS encryption for private keys
